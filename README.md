@@ -2,6 +2,9 @@
 
 For information on how to use this repository, see [.NET Core](https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core).
 
+[![Build Status](https://hregan.visualstudio.com/SampleProject/_apis/build/status/SampleProject-CI)](https://hregan.visualstudio.com/SampleProject/_build/latest?definitionId=1)
+
+
 | Example | Build status |
 |---------|--------------|
 | Build | [![Build status](https://dev.azure.com/pipelines-docs/docs/_apis/build/status/dotnetcore/dotnetcore)](https://dev.azure.com/pipelines-docs/docs/_build/latest?definitionId=1) |
